@@ -1,6 +1,6 @@
 # AllBooks
 
-Boas vindas ao nosso projeto da API do Allbooks!
+Boas vindas ao nosso projeto da API do Allbooks new!
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
